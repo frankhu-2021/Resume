@@ -1,0 +1,11 @@
+\begin{tabular}{@{}p{6cm}p{6cm}}
+\textbf{Professor Brad Barnes}     &  \textbf{John Posey III}      \\
+Professor            &
+Game Developer                            \\
+University of Georgia         &       Products for Robots CEO          \\
+Athens, Georgia           			&	     				FourAthens, Athens, Georgia  	 \\
+phone: \textsl{available on request} &
+phone: \textsl{available on request}       \\
+e-mail: \textsl{available on request} &
+e-mail: \textsl{available on request}       \\
+\end{tabular}
