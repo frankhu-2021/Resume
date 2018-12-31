@@ -1,7 +1,10 @@
-# From Frank Hu to You, the Reader
+# Resume Location
 **You can find my Resume in the TexResume folder above. The Resume.pdf file in said folder is my current most up to date resume as of 12/30/18.**
 
 Thank you for taking a look at my Github Repo for my LaTeX Resume.
+
+# Brief Description
+This Github Repo was created to display how I created my Resume using LaTeX, the classes I used, and how I have implemented the Resume LaTeX code.
 
 # Contact
 If you have any questions feel free to email me at **fhu004@fiu.edu**.
