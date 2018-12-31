@@ -3,6 +3,7 @@
 
 Thank you for taking a look at my Github Repo for my LaTeX Resume.
 
+# Contact
 If you have any questions feel free to email me at **fhu004@fiu.edu**.
 Or If you would like to contact me or **learn more about me, a more thorough description of my history can be found in my LinkedIn at : https://www.linkedin.com/in/frank-hu-3513b086/**
 
