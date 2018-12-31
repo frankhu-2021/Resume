@@ -7,5 +7,6 @@ Or If you would like to contact me or learn more my LinkedIn is at : https://www
 
 I look forward to speaking with you.
 
-**Thank You Again, - Frank Hu**
+**Thank You Again, 
+- Frank Hu**
 
