@@ -1,4 +1,4 @@
-Resume
+From Frank Hu to You, the Reader
 ======
 
 Thank you for taking a look at my Github Repo for my LaTeX Resume.
