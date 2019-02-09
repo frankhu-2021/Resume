@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2019.2.8)  9 FEB 2019 15:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2019.2.8)  9 FEB 2019 15:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -64,6 +64,7 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
  [1
 
 {c:/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] ) 
+{c:/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] ) 
 Here is how much of TeX's memory you used:
  321 strings out of 492616
  3497 string characters out of 6132769
@@ -71,18 +72,18 @@ Here is how much of TeX's memory you used:
  4310 multiletter control sequences out of 15000+600000
  6420 words of font info for 23 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 29i,4n,21p,196b,187s stack positions out of 5000i,500n,10000p,200000b,80000s
-<c:/texliv
-e/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2018/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2018/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmcsc10.pfb><c:/texlive/2018/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmsl10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmsy10.pfb>
-Output written on resume.pdf (2 pages, 83666 bytes).
+ 29i,4n,21p,196b,165s stack positions out of 5000i,500n,10000p,200000b,80000s
+<c:/texlive/20
+18/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2018/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2018/texmf-dist/font
+s/type1/public/amsfonts/cm/cmcsc10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmr10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmsl10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmsy10.pfb>
+Output written on resume.pdf (1 page, 83403 bytes).
 PDF statistics:
- 35 PDF objects out of 1000 (max. 8388607)
- 24 compressed objects within 1 object stream
+ 32 PDF objects out of 1000 (max. 8388607)
+ 22 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
