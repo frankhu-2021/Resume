@@ -7,8 +7,9 @@ Thank you for taking a look at my Github Repo for my LaTeX Resume.
 This Github Repo was created to display how I created my Resume using LaTeX, the classes I used, and how I have implemented the Resume LaTeX code.
 
 # Contact
-If you have any questions feel free to email me at **fhu004@fiu.edu**.
-Or If you would like to contact me or **learn more about me, a more thorough description of my history can be found in my LinkedIn at : https://www.linkedin.com/in/frank-hu-3513b086/**
+If you have any questions feel free to email me at **fhu004[at]fiu[dot]edu**.
+
+**If you would like to contact me or learn more about me, a more thorough and up to date description of my history can be found in my LinkedIn at : https://www.linkedin.com/in/frank-hu-3513b086/. My LinkedIn is typically updated more frequently.**
 
 I look forward to speaking with you.
 
