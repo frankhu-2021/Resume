@@ -1,5 +1,7 @@
 # Resume Location
-**You can find my Resume in the TexResume folder, you can also click here. https://github.com/FrankHu-MSFT/Resume/blob/master/TexResume/resume.pdf. The Resume.pdf file in said folder is my current most up to date resume as of 12/30/18.**
+**You can find my Resume in the TexResume folder, you can also click here. https://github.com/FrankHu-MSFT/Resume/blob/master/TexResume/resume.pdf.**
+
+**The Resume.pdf file in said folder is my current most up to date resume as of 12/30/18.**
 
 Thank you for taking a look at my Github Repo for my LaTeX Resume.
 
